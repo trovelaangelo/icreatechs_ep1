@@ -1,0 +1,10 @@
+Objectives: get familiarized with the basic HTML
+and its elements
+
+<!DOCTYPE html> - Declaration para basahin ng
+	browser na ito ay isang HTML file.
+
+<ol> - ordered list
+<ul> - unordered list
+<p> - paragraph
+<img> - show an image

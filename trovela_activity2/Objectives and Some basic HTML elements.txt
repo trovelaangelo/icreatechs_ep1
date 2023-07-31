@@ -1,0 +1,12 @@
+Objective: Learn the HTML Forms and handling user
+input using various input elemets.
+
+<label> - use to guide or instruct the user.
+<input> - use to enter the user input.
+
+The input element has different types: text, number,
+email, password, and etc.
+
+<textarea> - this is like an input but it accept
+1 or more lines unlike in the input.
+
